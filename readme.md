@@ -43,7 +43,8 @@ This is a complete casino coinflip game ecosystem consisting of three main compo
   - Responsive design (mobile/desktop)
   - Confetti animations for wins
   - Portfolio tracking
-
+ 
+ 
 ## 🚀 Key Features
 
 ### Game Mechanics
